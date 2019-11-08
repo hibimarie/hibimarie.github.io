@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "日本語テスト"
 categories: seven
 author: "hibi"
