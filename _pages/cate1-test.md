@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "日本語テスト"
-categories: seven
 author: "hibi"
 meta: "Springfield"
 ---
+
 # 不在証明は霧消しました
 あるいは、真犯人真下古志郎の誤算
 
