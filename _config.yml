@@ -52,4 +52,6 @@ plugins:
  - jekyll-seo-tag
 
 collections:
- - pages
+ pages:
+ output: true
+ permalink: /:collection/:name
