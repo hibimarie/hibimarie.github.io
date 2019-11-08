@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "日本語テスト"
-author: "hibi"
-meta: "Springfield"
 ---
 
 # 不在証明は霧消しました
