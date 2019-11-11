@@ -52,5 +52,5 @@ plugins:
  - jekyll-seo-tag
 
 collections:
- - seven:
- output: true
+ seven:
+  output: true
